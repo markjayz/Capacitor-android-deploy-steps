@@ -2,13 +2,13 @@
 Steps on how to Deploy Capacitor Android in Playstore
 Dipendency : NPM, Android Studio, Git, Capacitor CLI
 
-1. Checkout branch  :  **git checkout <branch>**
+1. Checkout branch  :  **git checkout {branch}**
   
 2. Install npm packages : **npm install**
   
 3. Build Project : **sudo npm run build**
   
-4. Capacitor Sync _need to install capacitor cli in local_ : **npx cap sync android**
+4. Capacitor Sync _need to install capacitor cli in local_ : **npx cap sync android** then **npx cap open android**
   
 5. Change **versionCode** and **versionName**
   <img width="1776" alt="Screen Shot 2022-05-24 at 9 48 35 PM" src="https://user-images.githubusercontent.com/9428322/170051537-2a5d17de-73cd-48c1-a910-6825edf5db84.png">
