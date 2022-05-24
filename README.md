@@ -1,4 +1,4 @@
-# Capacitor-android-deploy-steps
+# Capacitor-android-deployment-steps
 Steps on how to Deploy Capacitor Android in Playstore
 Dipendency : NPM, Android Studio, Git, Capacitor CLI
 
